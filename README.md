@@ -1,6 +1,9 @@
 ManagedUsers for Meteor
 ========================
 
+This version is specially modified with the accounts-ui requirement removed
+(so you can choose to use accounts-ui-bootstrap-dropdown)
+
 This is a simple package for making Meteor's default Accounts system more managed.
 With it, you will get:
 * A single "admin" account (default password is "abc123"...obviously change this).
